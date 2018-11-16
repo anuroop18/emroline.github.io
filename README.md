@@ -1,10 +1,4 @@
-[![pypi fastai version](https://img.shields.io/pypi/v/emro.svg)](https://pypi.python.org/pypi/emro)
-[![emro python compatibility](https://img.shields.io/pypi/pyversions/emro.svg)](https://pypi.python.org/pypi/emro)
-[![emro license](https://img.shields.io/pypi/l/emro.svg)](https://pypi.python.org/pypi/emro)
-
-
-
-# Emro  &copy; EmroLine
+## Emro Line
 
 ### Official Site [emroline.com](https://www.emroline.com/emro)
 
