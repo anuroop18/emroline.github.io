@@ -1,5 +1,6 @@
 <html>
   <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Emroline: Creating Dream Worlds</title>
     <link rel="shortcut icon" href="images/e.ico" />
@@ -70,6 +71,11 @@
     </div>
 
     <h1><center>Emroline : A Dream To Realize All Dreams</center></h1>
+    <div ng-app="">
+      <p><input type="text" ng-model="name" placeholder="Enter name here"></p>
+      <h1><center>Welcome {{name}}</center></h1>
+    </div>
+    
     <div class="container">
       <img src="images/creating_dream_worlds.jpg" alt="Creating Dream Worlds" style="width:100%">
 
